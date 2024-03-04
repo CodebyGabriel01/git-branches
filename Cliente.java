@@ -1,8 +1,6 @@
-import java.util.Scanner;
-
 public class Cliente {
-    public static void main(String[] args) {
-        
-    }
-
+    private String nome;
+    private String cpf;
+    private int agencia;
+    private double saldo;
 }
